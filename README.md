@@ -11,6 +11,8 @@ Risograph printed with [secret riso club](https://secretrisoclub.com/) and hand 
 ## for u geeks
 I hand charted out each song in MuseScore, and then used this [AMAZING godsend of a tool](https://extramaster.net/tools/midiToArduino/) to convert to frequencies passed to a piezo buzzer in Arduino code.
 
+used a reed switch and magnet for card opening/closing trigger mechanism!
+
 Used Arduino to program an ATTiny85 to play each song and blink the lil LED.
 
 Card designed in Photoshop/Illustrator.
